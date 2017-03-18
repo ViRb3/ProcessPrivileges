@@ -1,1 +1,3 @@
-Forked from: http://processprivileges.codeplex.com/
+### Forked from: http://processprivileges.codeplex.com/
+
+### [LICENSE](LICENSE.md)
